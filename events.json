@@ -1,0 +1,23 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "full_name": "freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free with millions of people around the world.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "name": "The Odin Project",
+    "full_name": "TheOdinProject/curriculum",
+    "description": "An open-source curriculum for learning web development.",
+    "url": "https://github.com/TheOdinProject/curriculum",
+    "starred_at": "2025-01-20"
+  },
+  {
+    "name": "TypeScript",
+    "full_name": "microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "url": "https://github.com/microsoft/TypeScript",
+    "starred_at": "2024-12-03"
+  }
+]
